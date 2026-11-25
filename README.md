@@ -179,4 +179,4 @@ Code released under the MIT License (see `LICENSE`).
 ## Contact
 
 Matys Precloux — EuroMov Digital Health in Motion, University of Montpellier
-(precloux.matys@gmail.com).
+(matys.precloux@umontpellier.fr).
